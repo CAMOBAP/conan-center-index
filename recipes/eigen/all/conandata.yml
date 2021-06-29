@@ -1,4 +1,7 @@
 sources:
+  "3.4-rc1":
+    url: "https://gitlab.com/libeigen/eigen/-/archive/3.4-rc1/eigen-3.4-rc1.tar.bz2"
+    sha256: "92641cb17a92bcf311c7fc095a555ca0e32990503573dda80eb1764dc37dcac9"
   "3.3.9":
     url: "https://gitlab.com/libeigen/eigen/-/archive/3.3.9/eigen-3.3.9.tar.bz2"
     sha256: "0fa5cafe78f66d2b501b43016858070d52ba47bd9b1016b0165a7b8e04675677"
